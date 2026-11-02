@@ -1,2 +1,2 @@
-source: fdittgen-png/deskilo@1c438088b90efaefd6ca847d09ea5bded00a2f18
+source: fdittgen-png/deskilo@63b4a25ebb5e4572634f32f2ed4cb6eda6e5de42
 base: /deskilo/
